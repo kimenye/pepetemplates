@@ -9,6 +9,7 @@
 # Corrections? Improvements? Create a GitHub issue:
 # http://github.com/RailsApps/rails-composer/issues
 #----------------------------------------------------------------------------
+.DS_Store
 
 # bundler state
 /.bundle
